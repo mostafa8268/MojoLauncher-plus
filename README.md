@@ -1,4 +1,4 @@
-<H1 align="center">MojoLauncher</H1>
+<H1 align="center">MojoLauncher plus </H1>
 
 <a href="https://github.com/MojoLauncher/MojoLauncher/blob/v3_openjdk/README_RU.md">Readme на русском</a>
 
